@@ -1,4 +1,4 @@
-# rgutil前端ES6工具库
+# rviews企业卡片组件库
 
 github仓库地址: https://github.com/GuCangRan/rviews
 
